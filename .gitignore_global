@@ -1,0 +1,17 @@
+Thumbs.db
+*~
+._*
+.#*
+.#.*
+.DS_Store
+.dumbjump
+.vscode
+.idea
+.settings/
+.sublime-*
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+node_modules
+.dumbjump
+.dumbjumpignore

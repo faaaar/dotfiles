@@ -1,0 +1,7 @@
+[user]
+	email = leeyunfans@gmail.com
+	name = LIYUNFAN
+[pull]
+	rebase = true
+[http]
+	proxy = 127.0.0.1:7890

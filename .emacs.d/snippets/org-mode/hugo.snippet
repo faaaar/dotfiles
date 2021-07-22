@@ -1,0 +1,19 @@
+# -*- mode: snippet -*-
+# name: hugo
+# key: <h
+# --
+#+HUGO_BASE_DIR: $1
+#+HUGO_SECTION: $2
+#+HUGO_TAGS: $3
+#+HUGO_CATEGORIES: $4
+#+HUGO_DRAFT: ${5:t}
+#+HUGO_AUTO_SET_LASTMOD: ${6:nil}
+
+#+DATE: `(format-time-string "%Y-%m-%d")`
+#+TITLE: $7
+#+AUTHOR: ${8:LIYUNFAN}
+#+DESCRIPTION: $9
+
+<!--more-->
+
+$0
